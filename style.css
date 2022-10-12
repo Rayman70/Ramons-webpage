@@ -1,0 +1,29 @@
+/* style.css */
+body {
+    background-color: slategrey;
+}
+
+.container-my-name {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.my-name {
+    font-size: 40px;
+    color: beige;
+    text-align: center;
+    border: solid gainsboro;
+    padding: 20px;
+}
+
+.container-about-me {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0em 5em 0em 5em;
+}
+
+.about-me-intro {
+    text-align: center;
+}
